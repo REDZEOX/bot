@@ -1,4 +1,4 @@
-import { proto } from '@adiwajshing/baileys'
+import { proto } from '@whiskeysockets/baileys'
 import { Sticker, Categories } from 'wa-sticker-formatter'
 import { Command, Message, BaseCommand } from '../../Structures'
 import { IArgs } from '../../Types'
