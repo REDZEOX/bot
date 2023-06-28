@@ -1,5 +1,5 @@
 import { BaseCommand, Command, Message } from '../../Structures'
-import { proto } from '@adiwajshing/baileys'
+import { proto } from '@whiskeysockets/baileys'
 
 @Command('upload', {
     description: 'convert media to direct links limit 5MB for media.',
